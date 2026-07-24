@@ -175,8 +175,15 @@ cython_debug/
 
 .DS_Store
 
+1_foundations/emails.txt
+
+2_openai/output/
+
 # Ignore Crew engineering team output
 3_crew/engineering_team/output/
+
+3_crewai/reference/engineering_team/sandbox/
+3_crewai/coursework/engineering_team/sandbox/
 
 # Ignore memory in sidekick
 memory.db-shm
@@ -186,5 +193,3 @@ memory.db
 # Ignore Accounts database in capstone project
 6_mcp/accounts.db
 6_mcp/memory/*.db
-
-.venv
